@@ -6,12 +6,12 @@ Instructions and documentation can be so valueable in products so why not have o
 Here are some information on how I work, how can I be helpfull, and what are some of my quircks.
 
 ## Communication
-I prefer open and on point communication, I appreciate it when people are honest in criticism or otherwise.
-I tend to openly say my opinion or what I think at the time, I can have wrong assumtions and my opinions 
+Open and on point communication is prefered, and it is appreciated when people are honest in criticism or otherwise.
+I tend to openly say my opinion or what is in my mind at the time, I can have wrong assumtions and my opinions 
 change over time, feel free to challenge them or ask about my confidence in a certain idea.
 
 As a rule I try to be on top of any asynchronous commnications, if there is something I can help with or should know, let me know.
-I usually respond fast as I can get easily disctracted, for this exact reason I sometimes silence notifications when I need to be more focused.
+Responses are usually fast as I can get easily disctracted, for this exact reason it's good for me to sometimes silence notifications to be more focused.
 
 In general I can express myself and my ideas well, however at times I can struggle with words, if I show difficulty formulating my idea to words
 I usually need some time to formulate my thoughts or find the words. I best communicate when there is a lot of shared context.
@@ -19,7 +19,7 @@ I usually need some time to formulate my thoughts or find the words. I best comm
 ## What I do
 I love to find solutions, in fact I've always had a mind that could not stay away from problems ;p ,
 I like to think about them and it fulfils me when I can solve them. As a software developer I do
-that by discussing, analyzing, writing code/documents and holding context. I usually I will work on product realted problems, however
+that by discussing, analyzing, writing code/documents and holding context. I usually work on product realted problems, however
 I am always happy when I can help in other areas aswell.
 
 
