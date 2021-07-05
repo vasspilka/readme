@@ -7,38 +7,38 @@ Here are some information on how I work, how can I be helpfull, and what are som
 
 ## Communication
 Open and on point communication is prefered, and it is appreciated when people are honest in criticism or otherwise.
-I tend to openly say my opinion or what is in my mind at the time, I can have wrong assumtions and my opinions 
-change over time, feel free to challenge them or ask about my confidence in a certain idea.
+He tend to openly say his opinion or what is in his mind at the time, He can have wrong assumtions and his opinions 
+change over time, feel free to challenge them or ask about his confidence in a certain idea.
 
-As a rule I try to be on top of any asynchronous commnications, if there is something I can help with or should know, let me know.
-Responses are usually fast as I can get easily disctracted, for this exact reason it's good for me to sometimes silence notifications to be more focused.
+As a rule he try to be on top of any asynchronous commnications, if there is something he can help with or should know, let him know.
+Responses are usually fast as he can get easily disctracted, for this exact reason it's good for him to sometimes silence notifications to be more focused.
 
-In general I can express myself and my ideas well, however at times I can struggle with words, if I show difficulty formulating my idea to words
-I usually need some time to formulate my thoughts or find the words. I best communicate when there is a lot of shared context.
+In general he can express himself and his ideas well, however at times he can struggle with words, if he is showing difficulty formulating his ideas to words
+he usually needs some time to formulate his thoughts or find the words. He best communicates when there is a lot of shared context.
 
-## What I do
-I love finding solutions, in fact I've always had a mind that could not stay away from problems ;p ,
-I like to think about them and it fulfils me when I can solve them. As a software developer I do
-that by discussing, analyzing, writing code/documents and holding context. I usually work on product realted problems, however
-I am always happy when I can help in other areas aswell.
+## What Vasilis does
+He loves finding solutions, in fact He's always had a mind that could not stay away from problems ;p ,
+He likse to think about them and it fulfils him when he can solve them. As a software developer he does
+that by discussing, analyzing, writing code/documents and holding context. He usually works on product realted problems, however
+he is always happy when he can help in other areas aswell.
 
 
 ## Availability
-There will usually be a work schedule with available hours, however one should always feel comfortable to contact me when needed.
-My work schedule will not always be followed, there are times we need to deal with something no matter the time, and in other cases
-I might decide to do something earlier or later.
+There will usually be a work schedule with available hours, however one should always feel comfortable to contact him when needed.
+His work schedule will not always be followed, there are times we need to deal with something no matter the time, and in other cases
+he might decide to do something earlier or later.
 
 ## Meetings
-I will be most effective in a meeting when the intend and goals are known beforehand, preferably meetings have an agenda or document associated with them.
-In longer meetings in which I am not actively involved I can find it hard to be engaged feel tired afterwards.
+He will be most effective in a meeting when the intend and goals are known beforehand, preferably meetings have an agenda or document associated with them.
+In longer meetings in which he is not actively involved he can find it hard to be engaged and feels tired afterwards.
 
 ## Pairing
-Pairing is an effective way of writing quality code and keeping good relations, if possible I will encourage people to
+Pairing is an effective way of writing quality code and keeping good relations, if possible he will encourage people to
 pair up on tasks when it's reasonable.
 
 ## Important To Know
 
-* I can sometimes make premature assumptions and jump to conclusions that are incorect. Don't always trust the first thing I say when we dealing with something novel, context about the subject will help me realise what re are dealing with.
-* I have difficulties with distractions, it's can hard for me not to pay attention when something is else is happening, for that reasons I prefer to work without many distractions around or in settings I can ignore the background.
-* I might come out as defensive or dismissive, that's very rarely the case, most likely I typed while having something else in my mind or wanted to respond fast.
-* I sometimes have high expectations for myself and work, at times I might point them out. I am fully aware that for the vast majority of occasions things can be good enough, I acknowledge that not all of my expecations will not get fulfilled.
+* He can sometimes make premature assumptions and jump to conclusions that are incorect. Don't always trust the first thing he sais when we dealing with something novel, context about the subject will help him realise what are are dealing with.
+* He has difficulties with distractions, it's can hard for him not to pay attention when something else is happening, for that reasons he prefers to work without many distractions around or in settings he can ignore the background.
+* He might come out as defensive or dismissive, that's very rarely the case, most likely he typed while having something else in his mind or wanted to respond fast.
+* He sometimes has high expectations for himself and our work, at times he might point them out. He is fully aware that for the vast majority of occasions things can be good enough, he acknowledges that not all of his expecations will not get fulfilled.
