@@ -1,4 +1,4 @@
-# How to work with Vas
+# How Vas Works
 
 ## What is this?
 This document has been inspired by my former CTO Shawn Vo. 
