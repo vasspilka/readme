@@ -17,23 +17,23 @@ In general I can express myself and my ideas well, however at times I can strugg
 I usually need some time to formulate my thoughts or find the words. I best communicate when there is a lot of shared context.
 
 ## What I do
-I love to find solutions, in fact I've always had a mind that could not stay away from problems ;p ,
+I love finding solutions, in fact I've always had a mind that could not stay away from problems ;p ,
 I like to think about them and it fulfils me when I can solve them. As a software developer I do
 that by discussing, analyzing, writing code/documents and holding context. I usually work on product realted problems, however
 I am always happy when I can help in other areas aswell.
 
 
 ## Availability
-I will have a schedule with the hours I tend to be available, however one should always feel comfortable to send me a message if needed.
-Even though I do have a work schedule at times I will not be following it, this can happen when I have many things to do or when I prefer to do
-something at a different time in the day.
+There will usually be a work schedule with available hours, however one should always feel comfortable to contact me when needed.
+My work schedule will not always be followed, there are times we need to deal with something no matter the time, and in other cases
+I might decide to do something earlier or later.
 
 ## Meetings
-I am most effective in a meeting when I know what is the intend and goals beforehand. I think meetings provide more value when there is an agenda.
-In longer meetings in which I am not actively involved I will find it hard to be engaged feel tired afterwards.
+I will be most effective in a meeting when the intend and goals are known beforehand, preferably meetings have an agenda or document associated with them.
+In longer meetings in which I am not actively involved I can find it hard to be engaged feel tired afterwards.
 
 ## Pairing
-I think pairing is an effective way of writing quality code and keeping good relations, if possible I will encourage people to
+Pairing is an effective way of writing quality code and keeping good relations, if possible I will encourage people to
 pair up on tasks when it's reasonable.
 
 ## Important To Know
