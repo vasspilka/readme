@@ -28,7 +28,17 @@ I will have a schedule with the hours I tend to be available, however one should
 Even though I do have a work schedule at times I will not be following it, this can happen when I have many things to do or when I prefer to do
 something at a different time in the day.
 
+## Meetings
+I am most effective in a meeting when I know what is the intend and goals beforehand. I think meetings provide more value when there is an agenda.
+In longer meetings in which I am not actively involved I will find it hard to be engaged feel tired afterwards.
+
+## Pairing
+I think pairing is an effective way of writing quality code and keeping good relations, if possible I will encourage people to
+pair up on tasks when it's reasonable.
+
 ## Important To Know
 
 * I can sometimes make premature assumptions and jump to conclusions that are incorect. Don't always trust the first thing I say when we dealing with something novel, context about the subject will help me realise what re are dealing with.
 * I have difficulties with distractions, it's can hard for me not to pay attention when something is else is happening, for that reasons I prefer to work without many distractions around or in settings I can ignore the background.
+* I might come out as defensive or dismissive, that's very rarely the case, most likely I typed while having something else in my mind or wanted to respond fast.
+* I sometimes have high expectations for myself and work, at times I might point them out. I am fully aware that for the vast majority of occasions things can be good enough, I acknowledge that not all of my expecations will not get fulfilled.
