@@ -10,14 +10,13 @@ Open and on point communication is prefered, and it is appreciated when people a
 He tend to openly say his opinion or what is in his mind at the time, He can have wrong assumtions and his opinions 
 change over time, feel free to challenge them or ask about his confidence in a certain idea.
 
-As a rule he try to be on top of any asynchronous commnications, if there is something he can help with or should know, let him know.
+As a rule he tries to be on top of any asynchronous commnications, if there is something he can help with or should know, let him know.
 Responses are usually fast as he can get easily disctracted, for this exact reason it's good for him to sometimes silence notifications to be more focused.
 
-In general he can express himself and his ideas well, however at times he can struggle with words, if he is showing difficulty formulating his ideas to words
-he usually needs some time to formulate his thoughts or find the words. He best communicates when there is a lot of shared context.
+In general he can express himself and his ideas well, however at stresfull times he can struggle with words, if he is showing difficulty formulating his ideas in words he usually just needs some time to formulate his thoughts better. He best communicates when there is a lot of shared context.
 
 ## What Vasilis does
-He loves finding solutions, in fact He's always had a mind that could not stay away from problems ;p ,
+He loves finding solutions, in fact he's always had a mind that could not stay away from problems ;p ,
 He likse to think about them and it fulfils him when he can solve them. As a software developer he does
 that by discussing, analyzing, writing code/documents and holding context. He usually works on product realted problems, however
 he is always happy when he can help in other areas aswell.
