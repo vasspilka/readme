@@ -38,7 +38,7 @@ pair up on tasks when it's reasonable.
 
 ## Important To Know
 
-* He can sometimes make premature assumptions and jump to conclusions that are incorect. Don't always trust the first thing he sais when we dealing with something novel, context about the subject will help him realise what are are dealing with.
+* He can sometimes make premature assumptions and jump to conclusions that are incorect. Don't always trust the first thing he sais when we dealing with something novel or he has only partial information, this will usually happen when there is missing context and he has to fill the gaps.
 * He has difficulties with distractions, it's can hard for him not to pay attention when something else is happening, for that reasons he prefers to work without many distractions around or in settings he can ignore the background.
 * He might come out as defensive or dismissive, that's almost never the case, most likely he typed while having something else in his mind or wanted to respond fast.
 * He has high expectations for himself and our work, at times he might point the "ideal" thing. He is fully aware that for the vast majority of occasions good enough is sufficient, he acknowledges that and accepts that not all of his expecations will get fulfilled.
