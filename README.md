@@ -14,7 +14,7 @@ change over time, feel free to challenge them or ask about his confidence in a c
 He always tries to be on top of any asynchronous commnications, if there is something he can help with or should know, let him know.
 Responses are usually fast as he can get easily disctracted, for this exact reason it's good for him to sometimes silence notifications to be more focused.
 
-In general he can express himself and his ideas well, however at stresfull times he can struggle with words, if he is showing difficulty experssing his ideas he usually just needs some time to formulate his thoughts better and find the appropriate words. He best communicates when there is a lot of shared context.
+In general he can express himself and his ideas well, however when stressed he can struggle with words, if he is showing difficulty experssing his ideas he usually just needs some time to formulate his thoughts better and find the appropriate words. He best communicates when there is a lot of shared context.
 
 ## What Vasilis does
 He loves finding solutions, in fact he's always had a mind that could not stay away from problems ;p ,
